@@ -31,3 +31,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/nozidev/count.svg" />
 </p>
+
+https://media.discordapp.net/attachments/817763377120018474/849048383829049384/Edit_Napoleon_Nozi_1.gif
