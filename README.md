@@ -32,4 +32,6 @@
   <img src="https://profile-counter.glitch.me/nozidev/count.svg" />
 </p>
 
+![Edit Napoleon (Nozi) (1)](https://user-images.githubusercontent.com/63956122/120245967-63ae1700-c25e-11eb-887a-d7fc665f687a.gif)
+
 
