@@ -23,7 +23,7 @@
 ---
 
 ## 🚩 Projects:
-- [PlanetHoster <img src="https://media.discordapp.net/attachments/816382538334994463/848974881584185404/PlanetHoster-1003x675.png?width=612&height=412" width="24"/>](https://www.planethoster.com/fr/)
+- [PlanetHoster  <img src="https://media.discordapp.net/attachments/816382538334994463/848974881584185404/PlanetHoster-1003x675.png?width=612&height=412" width="24"/>](https://www.planethoster.com/fr/)
 
 ---
 
